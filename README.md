@@ -19,8 +19,8 @@ The development followed a rigorous engineering lifecycle:
 4.	**Testing & Validation**: The system underwent extensive debugging focused on USB drivers, serial communication, and network connectivity to ensure reliable communication between the software stack and the hardware layer.
 
 **TECHNICAL SPECIFICATION**:
-•	**Microcontroller**: **ESP32** (dual-core processor with integrated Wi-Fi and Bluetooth).
-•	**Programming Languages**: **C/C++** for embedded firmware and Python for auxiliary data processing and **AI-assisted debugging**.
-•	**Software Architecture**: Full-stack IoT integration utilizing an HTTP protocol for request handling and real-time state changes.
-•	**Hardware Interface**: GPIO (General Purpose Input/Output) pins used to drive the switching logic.
-•	**AI-First Development**: Leveraged AI-assisted tools (such as Claude Code or GitHub Copilot) to optimize network logic and diagnose complex firmware bugs during the integration phase.
+- •	**Microcontroller**: **ESP32** (dual-core processor with integrated Wi-Fi and Bluetooth).
+- •	**Programming Languages**: **C/C++** for embedded firmware and Python for auxiliary data processing and **AI-assisted debugging**.
+- •	**Software Architecture**: Full-stack IoT integration utilizing an HTTP protocol for request handling and real-time state changes.
+- •	**Hardware Interface**: GPIO (General Purpose Input/Output) pins used to drive the switching logic.
+- •	**AI-First Development**: Leveraged AI-assisted tools (such as Claude Code or GitHub Copilot) to optimize network logic and diagnose complex firmware bugs during the integration phase.
